@@ -2,3 +2,20 @@
 git add -A
 git commit -m " create home html "
 git push - u origin master
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+xem các nhánh có trong máy git branch
+gom nhánh từ login về master
+git merge login 

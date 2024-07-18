@@ -1,4 +1,10 @@
 ---- đẩy code từ local lên remote
 git add -A
 git commit -m " create home html "
-git push - u origin master
+git push -u tên nhánh hiện tại
+
+đẩy lần 2 trở đi
+git push
+
+
+git check out -b {tên nhánh}

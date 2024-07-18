@@ -4,7 +4,11 @@ git commit -m " create home html "
 git push -u tên nhánh hiện tại
 
 đẩy lần 2 trở đi
-git push
+git push -u
 
 
 git check out -b {tên nhánh}
+
+
+chuyển nhánh
+git checkout [tên nhánh]

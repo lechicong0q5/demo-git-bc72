@@ -1,4 +1,4 @@
 ---- đẩy code từ local lên remote
-git add -add
+git add -A
 git commit -m " create home html "
 git push - u origin master

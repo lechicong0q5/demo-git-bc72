@@ -3,19 +3,20 @@ git add -A
 git commit -m " create home html "
 git push - u origin master
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 xem các nhánh có trong máy git branch
 gom nhánh từ login về master
 git merge login 
+git push -u tên nhánh hiện tại
+
+đẩy lần 2 trở đi
+git push -u
+
+
+git check out -b {tên nhánh}
+
+
+chuyển nhánh
+git checkout [tên nhánh]
+
+
+giải quyết conflict : 2 nhánh xảy ra khi merge and pull =>> tùy chon trường hợp thích hợp
